@@ -21,7 +21,7 @@ div#wall div#tag-3.slick, .wicked{ /*222*/
 
 /* Tag 5 -> 221 */
 
-#wall .parent #tag-5.slick { /*223*/
+div#wall div.parent div#tag-5.slick { /*223*/
   display: none;
 }
 
